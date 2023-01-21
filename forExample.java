@@ -1,2 +1,4 @@
-public static class main{
+public class main{
+	public static void main(String[] agrs){
+	}
 }
